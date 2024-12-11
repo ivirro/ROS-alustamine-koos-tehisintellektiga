@@ -11,7 +11,11 @@ Suurte keeltemudelite (LLM – Large lanuge model) põhineb Generative Pre-train
 
 Mõned alternatiivid:
 https://claude.ai/
+
 https://gemini.google.com/app
+
 https://www.perplexity.ai/
+
 https://notebooklm.google/
+
 
