@@ -10,6 +10,7 @@ Suurte keeltemudelite (LLM – Large lanuge model) põhineb Generative Pre-train
  Neid mudeleid on erinevaid. Üks tuntud on chatGPT https://chatgpt.com/ mida saab kasutada ka https://copilot.microsoft.com/ vahendusel. Sõltuvalt mudelist saab suhelda sellega kasutades kas inglise keelt või valimiku ka muust keeltest. Lisaks erinevad need kas saab lohistada pilte sisendiks või saada ka faile väljundiks.
 
 Mõned alternatiivid:
+
 https://claude.ai/
 
 https://gemini.google.com/app
